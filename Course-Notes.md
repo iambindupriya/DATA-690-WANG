@@ -1,5 +1,6 @@
 # Class-Notes
-## This file contains everyweek's lecture notes
+## This file contains every week's notes
+## {Weekx-Lecture-workflow >> Chapter x Notes}
 
 
 ### Week1-Lecture-workflow
