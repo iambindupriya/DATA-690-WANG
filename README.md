@@ -1,2 +1,4 @@
 # DATA-690-WANG
-This is for UMBC DATA-690 course.
+This repository is for UMBC DATA-690 "Statistics and visualizations" course.
+
+
