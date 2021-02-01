@@ -38,20 +38,20 @@ conda update package-name
 **python 3 is well supported and widely deployed**
 
 **community and conferences**
-pydata
-pystatsmodels
-numpy-discussion 
-scipy-user are various communities and forums
+-pydata
+-pystatsmodels
+-numpy-discussion 
+-scipy-user are various communities and forums
 
 pycon
 eurocon are conferences
 
 **import conventions**
 `import numpy as np
-    import matplotlib.pyplot as plt
-    import pandas as pd
-    import seaborn as sns
-    import statsmodels as sm`
+ import matplotlib.pyplot as plt
+ import pandas as pd
+ import seaborn as sns
+ import statsmodels as sm`
 
 **jargons**
 data wrangling
