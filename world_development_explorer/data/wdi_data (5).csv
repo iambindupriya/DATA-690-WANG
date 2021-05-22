@@ -1,0 +1,19 @@
+,Year,EN.ATM.CO2E.KT,NY.GDP.PCAP.PP.CD,EN.ATM.PM25.MC.ZS,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,504388.516,14744.1129133865,74.927751531,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+1,2016,462298.69,14256.1632471211,67.9525591754,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+2,2015,10145004.856,12978.7689105711,99.9999551645,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2016,9893037.952,13572.6199886903,99.9982986495,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+4,2015,727045.089,47609.7810045816,95.9525959399,DEU,Germany,Europe & Central Asia,High income,Not classified
+5,2016,727972.84,50579.6839299266,89.1546627249,DEU,Germany,Europe & Central Asia,High income,Not classified
+6,2015,2337749.17,5464.8591405153,100.0,IND,India,South Asia,Lower middle income,IBRD
+7,2016,2407671.526,5839.8985890506,100.0,IND,India,South Asia,Lower middle income,IBRD
+8,2015,512749.276,10247.206377812,96.1423724954,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+9,2016,563324.54,10494.5604668313,95.693529752,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+10,2015,1163803.124,40388.5527720976,88.6686504162,JPN,Japan,East Asia & Pacific,High income,Not classified
+11,2016,1135886.253,39964.2770077463,75.4121114745,JPN,Japan,East Asia & Pacific,High income,Not classified
+12,2015,1698213.369,24085.3241847947,91.827401897,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+13,2016,1732026.776,24125.3988633755,91.7079917953,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+14,2015,405038.485,42506.7220622134,71.9634942036,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+15,2016,379024.787,44166.9763874323,67.1006731271,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+16,2015,5126913.374,56839.3817742317,8.4653065074,USA,United States,North America,High income,Not classified
+17,2016,5006302.077,57951.5840820997,3.334435592,USA,United States,North America,High income,Not classified

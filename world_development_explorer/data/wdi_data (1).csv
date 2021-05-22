@@ -1,0 +1,69 @@
+,Year,SP.DYN.LE00.IN,SP.POP.TOTL,EN.ATM.CO2E.KT,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,73.619,195713635,419754.156,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+1,2011,73.921,197514534,439412.943,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+2,2012,74.209,199287296,470028.726,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+3,2013,74.483,201035903,503677.118,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+4,2014,74.745,202763735,533530.165,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+5,2015,74.994,204471769,504388.516,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+6,2016,75.23,206163058,462298.69,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+7,2010,74.409,1337705000,8776040.416,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2011,74.708,1344130000,9733538.12,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2012,75.013,1350695000,10028573.939,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2013,75.321,1357380000,10258007.128,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2014,75.629,1364270000,10291926.878,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2015,75.928,1371220000,10145004.856,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+13,2016,76.21,1378665000,9893037.952,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+14,2010,81.6634146341,65027507,353033.091,FRA,France,Europe & Central Asia,High income,Not classified
+15,2011,82.1146341463,65342780,331804.828,FRA,France,Europe & Central Asia,High income,Not classified
+16,2012,81.9682926829,65659809,333227.624,FRA,France,Europe & Central Asia,High income,Not classified
+17,2013,82.2195121951,65998687,334096.703,FRA,France,Europe & Central Asia,High income,Not classified
+18,2014,82.7195121951,66312067,303275.568,FRA,France,Europe & Central Asia,High income,Not classified
+19,2010,79.987804878,81776930,757880.892,DEU,Germany,Europe & Central Asia,High income,Not classified
+20,2011,80.4365853659,80274983,729810.007,DEU,Germany,Europe & Central Asia,High income,Not classified
+21,2012,80.5390243902,80425823,738141.431,DEU,Germany,Europe & Central Asia,High income,Not classified
+22,2013,80.4902439024,80645605,757961.566,DEU,Germany,Europe & Central Asia,High income,Not classified
+23,2014,81.0902439024,80982500,720363.815,DEU,Germany,Europe & Central Asia,High income,Not classified
+24,2015,80.6414634146,81686611,727045.089,DEU,Germany,Europe & Central Asia,High income,Not classified
+25,2016,80.9902439024,82348669,727972.84,DEU,Germany,Europe & Central Asia,High income,Not classified
+26,2010,66.693,1234281170,1719690.988,IND,India,South Asia,Lower middle income,IBRD
+27,2011,67.13,1250288729,1836561.945,IND,India,South Asia,Lower middle income,IBRD
+28,2012,67.545,1265782790,2013788.055,IND,India,South Asia,Lower middle income,IBRD
+29,2013,67.931,1280846129,2030971.617,IND,India,South Asia,Lower middle income,IBRD
+30,2014,68.286,1295604184,2232729.957,IND,India,South Asia,Lower middle income,IBRD
+31,2015,68.607,1310152403,2337749.17,IND,India,South Asia,Lower middle income,IBRD
+32,2016,68.897,1324509589,2407671.526,IND,India,South Asia,Lower middle income,IBRD
+33,2010,69.205,241834215,428760.308,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+34,2011,69.542,245116206,509969.69,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+35,2012,69.866,248452413,529632.144,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+36,2013,70.179,251806402,415012.725,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+37,2014,70.481,255129004,369945.295,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+38,2015,70.768,258383256,512749.276,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+39,2016,71.035,261554226,563324.54,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+40,2010,82.8426829268,128070000,1172611.258,JPN,Japan,East Asia & Pacific,High income,Not classified
+41,2011,82.5912195122,127833000,1190469.548,JPN,Japan,East Asia & Pacific,High income,Not classified
+42,2012,83.096097561,127629000,1229622.107,JPN,Japan,East Asia & Pacific,High income,Not classified
+43,2013,83.3319512195,127445000,1244616.47,JPN,Japan,East Asia & Pacific,High income,Not classified
+44,2014,83.587804878,127276000,1206674.021,JPN,Japan,East Asia & Pacific,High income,Not classified
+45,2015,83.793902439,127141000,1163803.124,JPN,Japan,East Asia & Pacific,High income,Not classified
+46,2016,83.9848780488,126994511,1135886.253,JPN,Japan,East Asia & Pacific,High income,Not classified
+47,2010,68.8412195122,142849468,1670531.186,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+48,2011,69.683902439,142960908,1763405.295,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+49,2012,70.072195122,143201721,1807244.28,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+50,2013,70.5787804878,143506995,1739426.782,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+51,2014,70.7436585366,143819667,1736984.56,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+52,2015,71.1834146341,144096870,1698213.369,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+53,2016,71.6512195122,144342397,1732026.776,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+54,2010,80.4024390244,62766365,492676.118,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+55,2011,80.9512195122,63258810,447440.006,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+56,2012,80.9048780488,63700215,468261.232,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+57,2013,81.0048780488,64128273,455940.112,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+58,2014,81.3048780488,64602298,419743.155,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+59,2015,80.956097561,65116219,405038.485,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+60,2016,81.156097561,65611593,379024.787,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+61,2010,78.5414634146,309321666,5395532.125,USA,United States,North America,High income,Not classified
+62,2011,78.6414634146,311556874,5270047.385,USA,United States,North America,High income,Not classified
+63,2012,78.7414634146,313830990,5081999.958,USA,United States,North America,High income,Not classified
+64,2013,78.7414634146,315993715,5170359.99,USA,United States,North America,High income,Not classified
+65,2014,78.8414634146,318301008,5225412.661,USA,United States,North America,High income,Not classified
+66,2015,78.6902439024,320635163,5126913.374,USA,United States,North America,High income,Not classified
+67,2016,78.5390243902,322941311,5006302.077,USA,United States,North America,High income,Not classified
